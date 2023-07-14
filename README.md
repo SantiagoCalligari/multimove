@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
-![MultiLogo](https://raw.githubusercontent.com/SantiagoCalligari/multimove/main/imagenes/multimove.png)
+<center><img></img></center>
 ## Description
 
 `multimove` is a tool that moves files listed in a source file to a specified destination location.
